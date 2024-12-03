@@ -1,0 +1,10 @@
+debug/diaporama.o
+debug/image.o
+debug/imagedansdiapo.o
+debug/lecteur.o
+debug/main.o
+debug/lecteurvue.o
+debug/presentation.o
+debug/qrc_ressourcesDiapo.o
+debug/moc_lecteurvue.o
+debug/moc_presentation.o

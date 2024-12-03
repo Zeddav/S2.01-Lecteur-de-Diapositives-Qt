@@ -1,0 +1,10 @@
+release/diaporama.o
+release/image.o
+release/imagedansdiapo.o
+release/lecteur.o
+release/main.o
+release/lecteurvue.o
+release/presentation.o
+release/qrc_ressourcesDiapo.o
+release/moc_lecteurvue.o
+release/moc_presentation.o
